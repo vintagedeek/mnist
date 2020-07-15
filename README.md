@@ -10,3 +10,4 @@
 
 #### kaggle_mnist_fully_connected_no_hidden_tanh.ipynb
 - Fully connected feed foward neural network with no hidden layers and tanh activation that achieves 92.8% accuracy in 40 epochs.
+- Code adapted from DeepLizard pytorch tutorial: https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG
