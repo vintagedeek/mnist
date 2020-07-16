@@ -8,6 +8,6 @@
 #### kaggle_mnist_feed_forward_one_hidden_no_cnn_2020_07_13.ipynb
 - Fully connected feed forward neural network with one hidden layer and sigmoid activation that achieves 94% accuracy on validation set. 
 
-#### kaggle_mnist_fully_connected_no_hidden_tanh.ipynb
-- Fully connected feed foward neural network with no hidden layers and tanh activation that achieves 92.8% accuracy in 40 epochs.
+#### kaggle_mnist_fully_connected_no_hidden_tanh_v2.ipynb
+- Fully connected feed foward neural network with no hidden layers and tanh activation that achieves 90.6% validation accuracy in 40 epochs.
 - Code adapted from DeepLizard pytorch tutorial: https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG
