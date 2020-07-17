@@ -2,12 +2,12 @@
 - The Kaggle MNIST training data was downloaded from https://raw.githubusercontent.com/wehrley/Kaggle-Digit-Recognizer/master/train.csv" 
 - Link to training data on Kaggle: https://www.kaggle.com/c/digit-recognizer/data
 
-#### kaggle_mnist_feed_forward_no_hidden_no_cnn_2020_07_11.ipynb
-- Fully connected feed forward neural network with no hidden layers and sigmoid activation that achieves validation accuracy around 90%.
+#### kaggle_mnist_feed_forward_no_hidden_no_cnn_sigmoid)2020_07_11.ipynb
+- Fully connected feed forward neural network with no hidden layers and sigmoid activation that achieves validation accuracy 91.9%
 
 #### kaggle_mnist_feed_forward_one_hidden_no_cnn_2020_07_13.ipynb
-- Fully connected feed forward neural network with one hidden layer and sigmoid activation that achieves 94% accuracy on validation set. 
+- Fully connected feed forward neural network with one hidden layer and sigmoid activation that achieves 97.4% validation accuracy. 
 
 #### kaggle_mnist_fully_connected_no_hidden_tanh_v2.ipynb
-- Fully connected feed foward neural network with no hidden layers and tanh activation that achieves 90.6% validation accuracy in 40 epochs.
+- Fully connected feed foward neural network with no hidden layers and tanh activation that achieves 91.9% validation accuracy.
 - Code adapted from DeepLizard pytorch tutorial: https://deeplizard.com/learn/playlist/PLZbbT5o_s2xrfNyHZsM6ufI0iZENK9xgG
