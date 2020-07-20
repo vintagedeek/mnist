@@ -16,5 +16,5 @@
 - CNN with one hidden layer that achieves 98.3% validation accuracy in about 25 epochs.
 
 #### kaggle_mnist_cnn_v1_99.ipynb
-- CNN with best run 99.5% validation accuracy on MNIST.
+- CNN with best run 99.57% validation accuracy on MNIST and 99.528% test accuracy on Kaggle submission.
 - some other experiments included.
