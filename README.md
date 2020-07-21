@@ -17,4 +17,5 @@
 
 #### kaggle_mnist_cnn_v1_99.ipynb
 - CNN with best run 99.57% validation accuracy on MNIST and 99.528% test accuracy on Kaggle submission.
+- Best run at very end of notebook.
 - some other experiments included.
